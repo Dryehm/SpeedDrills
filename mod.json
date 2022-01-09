@@ -3,7 +3,7 @@
    "displayName": "Speed Drills (SD)",
    "author": "Dryehm",
    "description": "Arent drills technically supposed to be fast.",
-   "version": "1.0",
-   "minGameVersion": "131",
+   "version": "1.1",
+   "minGameVersion": "126",
    "hidden": "false"
 }
